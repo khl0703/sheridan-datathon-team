@@ -64,3 +64,12 @@ If Gemini is unavailable, the rule-based reader and a template message take over
 - PKDD'99 Discovery Challenge Financial dataset (CTU Prague): https://relational.fel.cvut.cz/dataset/Financial
 - Built with Python, pandas, statsmodels, scikit-learn, SciPy, Gemini API; Streamlit and Plotly for the backup app.
   AI assistance (Claude) was used for coding and analysis.
+
+## Frontend design credits
+The frontend was developed with Claude assistance and guidance from these open-source agent skills:
+- [Taste / design-taste-frontend](https://github.com/Leonxlnx/taste-skill) by Leonxlnx — visual direction and layout.
+- [Impeccable](https://github.com/pbakaus/impeccable) by pbakaus — interface hierarchy, design review and polish.
+- [Emil Kowalski / emil-design-eng](https://github.com/emilkowalski/skills) — design engineering and micro-interaction guidance.
+
+See [CREDITS.md](CREDITS.md) for usage details, upstream license links and the distinction between development
+assistance and the app's data sources. These skills guided frontend development; they are not runtime dependencies.
